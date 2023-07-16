@@ -10,7 +10,7 @@
 ## To Play and Install
 + Step 1: Inside Frontend Folder, Run:
 ```
-  npm i
+npm i
 ```
 + Step 2: Inside MyGame Folder, Run:
 ```
