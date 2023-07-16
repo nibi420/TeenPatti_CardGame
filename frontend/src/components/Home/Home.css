@@ -1,0 +1,55 @@
+.sampleHomePage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: green;
+    height: 100vh;
+}
+
+.sampleTitle {
+    font-size: 3rem;
+    color: white;
+    margin-bottom: 2rem;
+}
+
+.inputContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 2rem;
+}
+
+.inputField {
+    padding: 0.5rem;
+    font-size: 1.5rem;
+    margin-right: 0.5rem;
+}
+
+.playButton {
+    padding: 0.5rem 2rem;
+    font-size: 1.5rem;
+    background-color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.messageContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+    width: 400px;
+    overflow-y: auto;
+    background-color: white;
+}
+
+.messageBox {
+    margin: 0.5rem;
+    padding: 0.5rem;
+    border: 1px solid black;
+    border-radius: 5px;
+}
